@@ -12,10 +12,10 @@ Config.datetoban = 180
 
 
 Config.embedname = "Anti-Explosion Bot"
-Config.BANEXPLOSION = "https://discord.com/api/webhooks/1196735398676799559/75CUzuS7CDRXVxhoEGQYqwjYN4YophGAMQrmaUaqkgctEP0Za3vWR321VKMXijfwhEy_"
-Config.SENDIMAGE = "https://discord.com/api/webhooks/1215899511851974667/lrTz5hiIL4pLp1Klsa0hofg8fWqg7FTKeih72feXtxq-kXgW-l6BvpW25jxmVTTB1_PX"
-Config.LOGDATADETAIL = 'https://discord.com/api/webhooks/1215899511851974667/lrTz5hiIL4pLp1Klsa0hofg8fWqg7FTKeih72feXtxq-kXgW-l6BvpW25jxmVTTB1_PX'
-Config.SENDTOADMIN = 'https://discord.com/api/webhooks/1169655943227768852/DG_RrRtcncGZqELqoqNIYyRDpZNJ4W-QnbpoMYtvYz0dZRD4LIvByCgNbEFy9tKUZck4'
+Config.BANEXPLOSION = ""
+Config.SENDIMAGE = ""
+Config.LOGDATADETAIL = ""
+Config.SENDTOADMIN = ""
 Config.typelog = "application/json"
 
 
